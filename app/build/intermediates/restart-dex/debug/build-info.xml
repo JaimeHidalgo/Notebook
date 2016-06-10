@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="99943783948376"
+    token="-328139427458161020"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="1946" />
+    <task
+        name="instant-run-dex"
+        duration="1851" />
+    <task
+        name="instant-run-transform"
+        duration="229" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="70014378462992" >
+        <artifact
+            location="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="99473191307162" >
+        <artifact
+            location="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="99856524024474"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/builds/debug/99856524024474/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="99943783948376"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
