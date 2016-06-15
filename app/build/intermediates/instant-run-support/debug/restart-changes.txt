@@ -1,2 +1,0 @@
-CHANGED,/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/jaimehidalgo/notebook/MainActivity$FragmentToLaunch.class
-CHANGED,/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/jaimehidalgo/notebook/MainActivity.class

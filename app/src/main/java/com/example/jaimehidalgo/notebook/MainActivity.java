@@ -79,8 +79,9 @@ public class MainActivity extends AppCompatActivity {
 
         if(isBackgroundDark){
 
-            LinearLayout mainLayout = (LinearLayout) findViewById(R.id.mainActivityLayout);
-            mainLayout.setBackgroundColor(Color.parseColor("#3f3c41"));
+            View mainLayout = findViewById(R.id.mainActivityLayout);
+            View rootMainLayout = mainLayout.getRootView();
+            rootMainLayout.setBackgroundColor(Color.parseColor("#3f3c41"));
         }
 
         String notebookTitle = sharedPreferences.getString("title", "Notebook");

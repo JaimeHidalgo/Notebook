@@ -9,18 +9,25 @@
         <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_b71230174d2af9a2a32b5addd945c73e73afbbc0/classes.dex" />
     </item>
     <item
-        jar="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="9a7f6126a3bf64a3bf18282600963dc1a3314036">
-        <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6afd6b66868bcd3df7d962ac69f126f63e9ade04/classes.dex" />
-    </item>
-    <item
         jar="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="56795d443cbf5de9f4e90f6b6264b4161ad895da">
+        sha1="4f88abe47523da7af594892f67c735d7712805af">
         <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cab725a2df997e2658528423206cdc56a2d53e94/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_e7b4ce2ba4e53db20d5b8033a570506e24cc9f59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de0e34b429a7257bc02f7d8da8a8665d40844054">
+        <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6afd6b66868bcd3df7d962ac69f126f63e9ade04/classes.dex" />
     </item>
     <item
         jar="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
@@ -42,13 +49,6 @@
         revision="23.0.3"
         sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
         <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_c857ba4e5ca6cb4442617c6d1fde11a6ba22ed6b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/Users/jaimehidalgo/AndroidStudioProjects/Notebook/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_e7b4ce2ba4e53db20d5b8033a570506e24cc9f59/classes.dex" />
     </item>
 
 </items>
